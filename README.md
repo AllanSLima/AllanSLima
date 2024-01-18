@@ -1,5 +1,11 @@
 ## Fala galerinha, aqui jas o pior programador do mundo!
 
+##
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmaita&layout=compact&theme=tokyonight" />
+</a>
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
