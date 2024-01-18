@@ -6,7 +6,6 @@ Fala galerinha, aqui jas o pior programador do mundo!
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmaita&layout=compact&theme=tokyonight" />
 </a>
-##
 
 ##
 <div style="display: inline_block"><br>
