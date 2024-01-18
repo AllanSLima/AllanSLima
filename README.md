@@ -1,8 +1,8 @@
-#
-Fala galerinha, aqui jas o pior programador do mundo!
-#
+###   Fala Galerinha, Allan aqui. 
+
+##
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmaita&layout=compact&theme=tokyonight" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSLima&layout=compact&theme=tokyonight" />
 </a>
 
 #
@@ -16,9 +16,8 @@ Fala galerinha, aqui jas o pior programador do mundo!
 #
 
 
-<div> 
+<div style="display: flex-direction: row"><br>
   <a href="https://instagram.com/cs_allan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
   <a href = "mailto:contato.allanlima123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allanlima851" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
