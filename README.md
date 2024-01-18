@@ -1,10 +1,10 @@
 ## Fala galerinha, aqui jas o pior programador do mundo!
 
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="Allan-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Allan-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Allan-Boot" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Allan-PHP" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
 </div>
   
   ##
